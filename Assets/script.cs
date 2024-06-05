@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+int test = 1; 
 public class script : MonoBehaviour
 {
     public float movePower = 5f;
